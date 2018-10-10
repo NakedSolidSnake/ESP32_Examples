@@ -1,0 +1,9 @@
+eclipse.preferences.version=1
+environment/project/0.480823731/IDF_PATH/delimiter=\:
+environment/project/0.480823731/IDF_PATH/operation=append
+environment/project/0.480823731/IDF_PATH/value=/home/solid/esp-idf-v3.0.2
+environment/project/0.480823731/PATH/delimiter=\:
+environment/project/0.480823731/PATH/operation=replace
+environment/project/0.480823731/PATH/value=/home/solid/bin\:/home/solid/.local/bin\:/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/usr/local/games\:/snap/bin\:/usr/lib/jvm/java-8-oracle/bin\:/usr/lib/jvm/java-8-oracle/db/bin\:/usr/lib/jvm/java-8-oracle/jre/bin\:${PATH}\:/opt/xtensa-esp32-elf/bin
+environment/project/0.480823731/append=true
+environment/project/0.480823731/appendContributed=true
